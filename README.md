@@ -1,5 +1,9 @@
 # KNN_amazonReviewsClassification   
 
+    Introduction
+A practical application in e-commerce applications to infer sentiment (or polarity) from free-form review text submitted for a range of products.
+For this project, we have implemented a k-Nearest Neighbor Classifier to predict the sentiment for 18506 baby product reviews provided in the test data. In training data positive sentiment is represented by a review rating of +1 and negative sentiment is represented by a review rating of -1. In test.dat we are only provided the reviews but no ground truth rating. These data will be used for comparing the predictions.
+
     Preprocessing
 ● First we have cleaned out the symbols dot(.) and have also removed all the words that are less than 4 in
 length. And have also removed characters that are not alphabet.
