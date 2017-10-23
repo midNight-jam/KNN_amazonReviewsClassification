@@ -1,4 +1,4 @@
-# KNN_amazonReviewsClassification   
+# Reviews Polarity Inference   
 
     Introduction
 A practical application in e-commerce applications to infer sentiment (or polarity) from free-form review text submitted for a range of products.
